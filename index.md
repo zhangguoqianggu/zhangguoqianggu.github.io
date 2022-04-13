@@ -1,13 +1,6 @@
----
-layout: null
-title: Main
----
-
-<!DOCTYPE html>
-<html>
 <body>
 
-<h1>Hello World</h1>
+# Hello World
 
 <h2>Your SHORT biography<h2>
 A brief & professional story of you
